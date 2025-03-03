@@ -11,6 +11,7 @@ export function sumToN(n) {
   for (let i = 1; i <= n; i++) {
     sum += i;
   }
+  3;
   return sum;
 }
 
